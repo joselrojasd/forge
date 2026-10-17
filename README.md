@@ -7,7 +7,7 @@
 
 Una herramineta para construir aplicaciones Electron modernas.
 
-agregado en la rama "jose"
+agregado en la rama "jose" y esto lo hice en la rama LUIS
 
 Electron Forge unifies the existing (and well maintained) build tools for
 Electron development into a simple, easy to use package so that anyone can
